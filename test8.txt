@@ -1,0 +1,14 @@
+zad 1
+ b. CSS
+
+zad 2
+c. selektorem
+
+zad 3
+c. inline
+
+zad 4
+d. wielokrotnie
+
+zad 5
+b. bloki

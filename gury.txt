@@ -1,0 +1,16 @@
+Poprawiony kod
+
+#tlo {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+}
+ 
+#tekst {
+    position: absolute;
+    left: 115px;
+    top: 115px;
+    z-index: 1;
+}
+ 

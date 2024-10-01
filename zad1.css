@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+    display: flex;
+}
+li {
+    margin-right: 20px;
+}
+
+a:visited {
+    color:palegoldenrod
+}
+
+ul {
+    background-color: #333;
+}
+li a {
+    color: #fff
+}
+li a:hover {
+    background-color: #575757;
+}
